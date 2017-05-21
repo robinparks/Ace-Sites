@@ -1,4 +1,8 @@
-## Welcome
-
-Please wait while you are being redirected...
-<meta http-equiv="refresh" content="1; URL='http://acesites.tk'" />
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="0; url=http://sites.asuite.cf">
+</head>
+<body>
+</body>
+</html>
